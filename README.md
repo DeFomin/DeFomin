@@ -1,3 +1,7 @@
+<div style="width: 200px; height: 50px; overflow: hidden;">
+    <img src="https://img.freepik.com/free-photo/liquid-purple-art-painting-abstract-colorful-background-with-color-splash-paints-modern-art_1258-103355.jpg?w=1800&t=st=1694380335~exp=1694380935~hmac=e33ef2513613e995fc7a0c05246f44cf24f14b20bae1ca738025d77bcfcf65b1" style="width: 1000; height: 100;">
+</div>
+
 <!--https://streak-stats.demolab.com/demo/-->
 <!--https://readme-typing-svg.herokuapp.com/demo/-->
 
