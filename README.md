@@ -6,13 +6,20 @@
 </h1>
 
 <h3 align="center">Beginner DevOps Engineer</h3>
-<h4>
-  <div>  
-  🔭 I’m currently working on **working on a good scholarship**
+<h5>
+  <div>
+    Обо мне:
+Я учусь на 3 курсе в университете ИТМО в Санкт-Петербурге на факультете инфокоммуникационных технологий (Мегафакультет трансляционных информационных технологий) со специализацией Облачных и Сетевых Технологий;
+      
+В 2023 году учавствовал на Конференции Молодых Ученых с проектом программной системы для автоматизированного хранения инструмента на основе технологии распознавания лиц <a href="https://kmu.itmo.ru/digests/article/10975"> статья тут </a>
+
+    
+  * 🔭 Работаю над хорошей стипендией
+      
+  * 🌱 В данный момент активно изучаю DevOps; Containerlab; Docker Compose
  
- 🌱 I’m currently learning **DevOps; Containerlab; Docker Compose**
   </div>
-</h4>
+</h5>
 
 <div align="center"> 
   <a href="mailto:sir.fomin-job@yandex.ru" >
@@ -65,7 +72,11 @@
 <br></br>
 <h2 align="center">⚡ Stats ⚡</h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DeFomin&theme=midnight-purple&hide_border=false)](https://git.io/streak-stats) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeFomin&show_icons=true&theme=midnight-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeFomin&layout=compact&theme=midnight-purple&hide_border=false)
 
+<div align=center>
+  <img src="https://streak-stats.demolab.com/?user=DeFomin&theme=midnight-purple&hide_border=false" alt="readme stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DeFomin&show_icons=true&theme=midnight-purple" alt="readme stats" />
+</div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeFomin&layout=compact&theme=midnight-purple&hide_border=false" alt="top langs" />
+</div>
