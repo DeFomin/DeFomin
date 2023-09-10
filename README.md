@@ -14,17 +14,17 @@
   </div>
 </h4>
 
-<div>
-  <a href="mailto:sir.fomin-job@yandex.ru">
-    <img src="https://github.com/DeFomin/DeFomin/assets/90705279/180daf82-5867-427d-99a7-40fa24703898" alt="Yandex mail" width="50" height="50" />
+<div align="center"> 
+  <a href="mailto:sir.fomin-job@yandex.ru" >
+    <img src="https://icons.veryicon.com/png/Internet%20%26%20Web/Basic%20Round%20Social/yandex.png" width="50" height="50" />
   </a>
-  
-  <a href="https://t.me/defamine/" target="_blank">
-    <img src="https://github.com/DeFomin/DeFomin/assets/90705279/368b123c-372c-4e9e-9ba4-b25b05003f12" alt="Telegram" width="50" height="50" />
+  <a href="https://t.me/defamine/" target="_blank" style="margin: 0 10px;">
+    <img src="https://www.svgrepo.com/show/354443/telegram.svg" width="50" height="50" />  
   </a>
-
+  <a href="https://vk.com/please__stand__up" style="margin: 0 10px;">
+    <img src="https://www.svgrepo.com/show/331634/vk-v2.svg"  width="50" height="50">  
+  </a>
 </div>
-
 
 <h1></h1>
 <br></br>
