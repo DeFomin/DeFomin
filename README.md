@@ -75,7 +75,9 @@
 
 <div align=center>
   <img src="https://streak-stats.demolab.com/?user=DeFomin&theme=midnight-purple&hide_border=false" alt="readme stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=DeFomin&show_icons=true&theme=midnight-purple" alt="readme stats" />
+    
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=DeFomin&show_icons=true&theme=midnight-purple" alt="readme stats" /> -->
+  
 </div>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeFomin&layout=compact&theme=midnight-purple&hide_border=false" alt="top langs" />
