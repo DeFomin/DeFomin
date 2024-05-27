@@ -25,7 +25,7 @@
   <a href="mailto:sir.fomin-job@yandex.ru" >
     <img src="https://icons.veryicon.com/png/Internet%20%26%20Web/Basic%20Round%20Social/yandex.png" width="50" height="50" />
   </a>
-  <a href="https://t.me/defamine/" target="_blank" style="margin: 0 10px;">
+  <a href="https://t.me/MayIhaveyourattentionplease/" target="_blank" style="margin: 0 10px;">
     <img src="https://www.svgrepo.com/show/354443/telegram.svg" width="50" height="50" />  
   </a>
   <a href="https://vk.com/please__stand__up" style="margin: 0 10px;">
