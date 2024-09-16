@@ -27,18 +27,19 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=8122F7&width=635&height=70&lines=Working+On;...;ERROR+404;sudo+reboot;%24%25465%24%24%5E%24%2549-2fekf0008-2309-%23%40w%23(*7dw6543hwq3674445679%23%23%24834232ndaem3242%25%23%24fesfe23%25;...;..." alt="Typing SVG" /></a>
 
-<img align="right" src="https://media2.giphy.com/media/84SFZf1BKgzeny1WxQ/giphy.gif?cid=ecf05e4740jks6gw6d2cv8f46n2g9sbvkdb8j1jhj4ln24sm&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="gif" width="445" >
+<img align="right" src="https://media2.giphy.com/media/84SFZf1BKgzeny1WxQ/giphy.gif?cid=ecf05e4740jks6gw6d2cv8f46n2g9sbvkdb8j1jhj4ln24sm&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="gif" width="485" >
 
   
 <h3>
 
   Current stack
   
-  <img align="up" src="https://skillicons.dev/icons?i=github,python,bash,linux,docker,jenkins,vim"/><br>  
+  <img align="up" src="https://skillicons.dev/icons?i=github,python,bash,linux,docker,jenkins"/><br>
+  <img align="up" src="https://skillicons.dev/icons?i=vim,grafana"/><br>
 
   Have knowledge in
 
-  <img align="up" src="https://skillicons.dev/icons?i=k8s,terraform,css,js,django,flask,grafana"/><br> 
+  <img align="up" src="https://skillicons.dev/icons?i=k8s,terraform,css,js,django,flask"/><br> 
   <img align="up" src="https://skillicons.dev/icons?i=nginx,githubactions,mysql,postgres"/><br> 
 
   Software  
